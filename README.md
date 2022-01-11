@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Emusau
+- 👋 Hi, I’m @Eric Musau
 - 👀 I’m interested in web development{HTML,CSS,...}:CYBERSECURITY
 - 🌱 I’m currently learning ,INFORMATION TECHNOLOGY
 - 💞️ I’m looking to collaborate on ,WEBDEVELOPMENT
